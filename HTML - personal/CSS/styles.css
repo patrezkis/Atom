@@ -1,0 +1,150 @@
+hr {
+  border:dotted 8px;
+    border-color: #ffffff;
+    border-bottom:none;
+    margin: 80px auto;
+  width: 4%}
+                {style background-color : #3A3845}
+
+
+#heading {
+font-family: 'Pinyon Script' , cursive;
+   color :    #ffffff;
+   }
+
+.top-container {
+  background-color:   #0066cc;
+  position: relative;
+  padding-top: 100px;
+}
+
+
+
+
+.middle-container {
+
+}
+
+.bottom-container{
+background-color: #0047b3;
+position: relative;
+padding: 30px 0 30px;
+}
+
+
+
+
+body{
+  margin: 0 ;
+  text-align: center;
+  font-family: 'Merriweather', serif ;
+  }
+
+  h1{
+    font-size: 5.5rem;;
+    font-family: 'Sacramento', cursive ;
+    color: #e6e6e6;
+    line-height: 2;
+  }
+
+h2{
+  font-size: 2.5rem;
+  font-family: 'Montserrat' , sans-serif;
+  color: #e6e6e6;
+  font-weight: normal;
+}
+
+h3{
+  font-family: 'Montserrat' , sans-serif;
+  color: #ffffff;
+}
+
+h5 {font-family: sans-serif;
+color: #ffffff;
+}
+
+
+.top-cloud {
+  position: absolute;
+  right: 400px;
+  top: 30px;
+  width: 100px;
+}
+
+.bottom-cloud{
+  position: absolute;
+  left: 400px;
+  bottom: 1900px;
+    width: 100px;
+}
+
+.contact-me{
+  position: relative;
+  padding-bottom: 100px;
+
+
+}
+
+
+
+
+#pocitac{ width: 25%;
+  float:left;
+margin-right : 30px;}
+
+#ai {width : 25%;
+float : right ;
+margin-left: 30px;}
+
+#marketing {width: 25%;
+  float:left;
+margin-right : 30px;}
+
+#datum {position: relative;
+bottom: 80px; }
+
+.skill-row {width: 50%;
+margin:200px  auto 100px ;
+text-align: left;
+line-height: 2;
+}
+
+
+a {
+  color: #ffffff;
+font-family: 'Montserrat';
+margin: 10px 10px;
+text-decoration: none;
+}
+
+a:hover {
+  color: #000000
+}
+
+
+
+  .btn {
+  font-family: 'Montserrat';
+  color: #FFFFFF !important;
+  font-size: 15px;
+  text-shadow: 1px 1px 0px #7CACDE;
+  box-shadow: 1px 1px 1px #BEE2F9;
+  padding: 10px 15px;
+  border-radius: 10px;
+  border: 2px solid #3866A3;
+  background: #63B8EE;
+  background: linear-gradient(to top, #63B8EE, #468CCF);
+}
+.btn:hover {
+  color: #14396A !important;
+  background: #468CCF;
+  background: linear-gradient(to top, #468CCF, #63B8EE);
+}
+
+
+.copyright {
+  font-size: 0.75rem;
+  padding: 10px 30px;
+}
+
+p {color : #f2f2f2;}
